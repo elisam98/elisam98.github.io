@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.42194mm"
+   height="27.41526mm"
+   viewBox="0 0 501.10134 97.140686"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SafeTelecom.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4216">
+      <stop
+         style="stop-color:#337ffe;stop-opacity:1"
+         offset="0"
+         id="stop4218" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4220" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4216"
+       id="linearGradient4222"
+       x1="177.9474"
+       y1="198.16765"
+       x2="227.53052"
+       y2="254.54918"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.99412966,0,0,1.1351233,-2.8511893,-39.386323)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74"
+     inkscape:cx="90.21306"
+     inkscape:cy="-43.298675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1536"
+     inkscape:window-height="803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4153"
+       originx="-153.32142"
+       originy="-796.4567" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-153.32142,-158.76483)">
+    <g
+       id="g4162">
+      <path
+         sodipodi:nodetypes="acccccccaca"
+         inkscape:connector-curvature="0"
+         id="rect3351-1"
+         d="m 175.87459,171.68576 c -5.19615,0.93198 -15.82299,0 -15.82299,0 l 0,17.93632 0,17.93633 c 2.15808,32.44382 31.64601,41.47094 31.64601,41.47094 0,0 29.48795,-9.02712 31.64603,-41.47094 l 0,-17.93633 0,-17.93632 c 0,0 -10.62685,0.93198 -15.823,0 -5.5211,-0.99026 -15.82303,-5.8535 -15.82303,-5.8535 0,0 -10.30191,4.86324 -15.82302,5.8535 z"
+         style="fill:url(#linearGradient4222);fill-opacity:1;fill-rule:nonzero;stroke:#ff6500;stroke-width:6.37373972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.87750758,1.1395913)"
+         sodipodi:linespacing="125%"
+         id="text4212"
+         y="220.67072"
+         x="270.8205"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:79.77139282px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';letter-spacing:0px;word-spacing:0px;fill:#ff6500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="220.67072"
+           x="270.8205"
+           id="tspan4214"
+           sodipodi:role="line">SafeTelecom</tspan></text>
+    </g>
+  </g>
+</svg>
